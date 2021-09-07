@@ -35,20 +35,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/87979358/132415248-4638ca65-0ef8-4509-b3d1-c4593fadb33b.gif" alt="Mario Game" width="980">
