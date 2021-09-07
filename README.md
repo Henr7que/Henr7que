@@ -28,6 +28,23 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronomes:** [*Ele/Ele*](https://pronoun.is/he) 🧔
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Um fato:** minha **Inteligência** 💡 Reside da minha **Imaginação Fertil** 😴
 
+<div>
+  <a href="https://github.com/Henr7que">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henr7que&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henr7que&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
     
 
