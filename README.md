@@ -20,14 +20,6 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> *Atualmente estou* **Dormindo** 😴 ou *Trabalhando* em meu **Computador** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> Estou *Disposto* a **Aprender** novas **Tecnologias** 💪
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> Estou procurando *colaborar* em projetos utilizando minhas **Skills** e **Conhencimentos** 🧠
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> Sempre estou me **Atualizando**, me mantendo sempre **Conectado** 🌐
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20vw" /> *Tenho bons argumentos* para provar **Que Aliens 👽 Existe.**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronomes:** [*Ele/Ele*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Um fato:** minha **Inteligência** 💡 Reside da minha **Imaginação Fertil** 😴
-
 <div>
   <a href="https://github.com/Henr7que">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henr7que&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
